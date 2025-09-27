@@ -1,0 +1,3 @@
+0 invoice_no
+1 date
+2 amount
